@@ -1,0 +1,88 @@
+{
+    "name":"MOHAMED AZIZ JABRI",
+    "field":"COMPUTER SCIENCE",
+    "phone":"+216 93 617 984",
+    "email":"azizjb.business@gmail.com",
+    "github":{
+        "username":"github.com/AzizJabri/",
+        "link":"https://github.com/AzizJabri/"
+    },
+    "linkedin":{
+        "username":"linkedin.com/in/aziz-jabri/",
+        "link":"https://www.linkedin.com/in/aziz-jabri/"
+    },
+    "location":"Beja, Tunisia",
+    "education":[
+        {
+            "school":"The Higher Institute of Information Technologies and Communication (ISTIC)",
+            "degree":"Licence's Degree In Computer Science",
+            "graduation":"2021-2024"
+        },
+        {
+            "school":"Bechir Sfar Amdoun",
+            "degree":"High School",
+            "graduation":"2016-2020"
+        }
+    ],
+    "languages":["English","Arabic","French"],
+    "programming_languages":[
+        "Python",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Java",
+        "Shell"
+    ],
+    "backend" : ["Django","Node.js","Express.js"],
+    "frontend" : ["NextJs","Bootstrap","TailwindCSS"],
+    "database" : ["MongoDB","MySQL","Oracle"],
+    "experience":[
+        {
+            "company":"MINECRAFT.TN",
+            "position":"STAFF - WEB DEVELOPPER",
+            "start_date":"2022",
+            "end_date":"PRESENT",
+            "description":"Creation and implementation of a landing page for the server's website."
+        },
+        {
+            "company":"MINECRAFT.TN",
+            "position":"STAFF - HELPER",
+            "start_date":"2020",
+            "end_date":"2021",
+            "description":"Helping online players and making sure the server runs smoothly."
+        }
+    ],
+    "events":[
+        {
+            "name":"MEDITERRANEAN CYBER ​​DEFENSE FORUM",
+            "date":"18-03-2023",
+            "description":"Our Team Ranked #5th in CHICHACK CTF held by HEXAGONE Institute.",
+            "location":"MÖVENPICK SOUSSE"
+        },
+        {
+            "name":"MINI CTF",
+            "date":"11-11-2022",
+            "description":"Our Team Ranked #8th in Securinets INSAT's MINI-CTF.",
+            "location":"INSAT"
+        }
+    ],
+    "professional_skills":["GIT/GITHUB","DJANGO","NODEJS","MONGODB","ADOBE XD","PHOTOSHOP"],
+    "extracurricular":[
+        {
+            "icon":"fa fa-flag",
+            "name":"CTF Player (CyberSecurity)"
+        },
+        {
+            "icon":"fa fa-music",
+            "name":"Music"
+        },
+        {
+            "icon":"fa fa-pencil",
+            "name":"Design"
+        },
+        {
+            "icon":"fa fa-futbol-o",
+            "name":"Sports"
+        }
+    ]
+}
