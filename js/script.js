@@ -10,6 +10,4 @@ function toggleDarkMode() {
   const body = document.body;
   body.classList.toggle("dark-mode");
 
-  // You can also toggle specific elements with dark mode styles if needed
-  // For example: document.getElementById("someElement").classList.toggle("dark-mode");
 }
