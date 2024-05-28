@@ -256,15 +256,16 @@ section {
 .btn-color-1,
 .btn-color-2:hover {
   background: rgb(53, 53, 53);
-  color: white;
+  color: var(--background-color);
 }
 
 .btn-color-1:hover {
   background: var(--background-color);
+  color: black;
 }
 
 .btn-color-2 {
-  background: white;
+  background: var(--background-color);
 }
 
 .btn-color-2:hover {
